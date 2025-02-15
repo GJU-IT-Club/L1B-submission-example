@@ -1,16 +1,20 @@
-# test_app
+# L1B Certificate Example App
 
-A new Flutter project.
+![Gemuse Wiki Home Page](image-3.png)
+![Empty Content](image.png)
+![Dialog](image-2.png)
+![Kartoffel](image-4.png)
+![User page](image-1.png)
+![Lemon](image-5.png)
+![Tomato](image-6.png)
 
-## Getting Started
+This is an Example App to get an idea of what to build to get the Certificate of Completion for the GJU IT Club [Das Bootcamp](https://it.gju.app/events/bootcamp).
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+## Rules & Instructions
+- Create an App that has the following stuff:
+  - 2 Pages: Home & User
+  - **Home**
+    - has a floating action button (FAB), the body is displayed initially with a text 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
